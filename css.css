@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(245, 245, 245);
+}
+
+dl{
+    font-size: medium;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
+
+.last-secton{
+    text-align: center;
+}
+
+aside{
+    text-align: center;
+}
+
+.footer{
+    margin-top: 20px;
+     text-align: center;
+}
+
+#headline{
+    border: solid 2px;
+}
+
+a:link{
+    color: skyblue;
+}
+a:visited {
+    color: blueviolet;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:focus, a:active {
+    color: red;
+}
